@@ -1,1 +1,1 @@
-# vimrc
+My minimal vim setup :)
